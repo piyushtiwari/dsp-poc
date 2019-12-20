@@ -4,8 +4,10 @@
 
 python3 -m venv env-modec
 
+
 ## Build Steps
 
 source env-modec/bin/activate
+pip3 install -r requirements.txt
 
-jupiter notebook
+jupyter notebook
