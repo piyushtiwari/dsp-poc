@@ -2,7 +2,9 @@
 
 ## Set-up steps for first time
 
-```python3 -m venv env-modec```
+```
+python3 -m venv env-modec
+```
 
 
 ## Build Steps
